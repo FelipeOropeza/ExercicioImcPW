@@ -1,10 +1,5 @@
 let $calcular = document.getElementById("calcular");
 
-//alert($nome);
-//alert($calcular);
-//alert($resultado);
-//$nome.value = "Felipe Carvalho";
-
 function imc(){
     let $nome = document.getElementById("nome").value;
     let $altura = document.getElementById("altura").value;
